@@ -561,6 +561,15 @@ a,
   .mb-xs-80 {
     margin-bottom: 80px !important;
   }
+  .titan-caption {
+    position: relative;
+    display: table;
+    height: 100%;
+    width: 70%;
+    margin: 0 auto;
+    margin-right: 100px;
+  }
+
 }
 
 /* Scroll to top */
