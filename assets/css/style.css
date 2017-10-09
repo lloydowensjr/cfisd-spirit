@@ -62,6 +62,10 @@ a,
   transition: all 0.3s ease-in-out 0s;
 }
 
+.fa {
+  font-size: 30px;
+}
+
 /* Reset box-shadow */
 .btn,
 .well,
@@ -1295,8 +1299,9 @@ General Styles - Owlcarousel
   font-family: "Roboto Condensed", sans-serif;
   text-transform: uppercase;
   letter-spacing: 3px;
-  font-size: 11px;
+  font-size: 14px;
   transition: background, padding 0.4s ease-in-out 0s;
+  font-weight: 500;
 }
 
 .navbar a {
